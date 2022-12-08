@@ -1,0 +1,92 @@
+
+
+body{
+
+  background-color: gainsboro;
+}
+
+.grosor{
+   font-size: 30px;
+   font-weight: bold;
+}
+
+.compromiso{
+
+   text-align: center;
+   margin: 30px 0px;
+}
+.pq{
+   
+   font-weight: bold;
+}
+.empren{
+
+    text-align: center;
+    margin: 30px 0px;
+
+}
+.contactanos{
+
+    text-align: center;
+    margin: 30px 0px;
+
+
+}
+.laa{
+    font-size: 30px;
+}
+.oll{
+    height: 700px;
+    
+}
+footer{
+    margin-top: 100px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #166073;
+    color: white;
+}
+.sub{
+    text-align: center;
+
+}
+.lalalong{
+     position: relative;
+
+}
+
+.i{
+
+    position: absolute;
+    top: 7px;
+    left: 20px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.detalle{
+    position: absolute;
+    top: 365px;
+    left: 20px;
+    font-size: 20px;
+    color: white;
+}
+.i-e{
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    left: 357px;
+    top: 7px;
+}
+
+.detalle-e{
+    
+   position: absolute;
+   font-size: 20px;
+    color: white;
+   top: 367px;
+   left: 357px;
+}
